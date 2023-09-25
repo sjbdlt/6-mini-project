@@ -1,0 +1,14 @@
+
+body {
+    
+    background-color: azure;
+  }
+
+#txtseachval, #drlformat, #btnsearch{
+    width: 100%;
+    margin:5px
+}
+
+#resultdiv{
+  text-align: left;
+}
